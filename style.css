@@ -282,7 +282,7 @@ a:hover {
   }
 }
 
-.oops {
+.popup {
   position: relative;
   margin: 0 auto;
   z-index: 5;
@@ -296,14 +296,14 @@ a:hover {
   z-index: 3;
 }
 
-.oops_wrapper {
+.popup_wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.oops.happened {
+.popup.happened {
   display: block;
 }
 
